@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aptdemo</string>
+    <string name="title_activity_labels">LabelsActivity</string>
+</resources>
